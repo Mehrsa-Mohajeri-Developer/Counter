@@ -1,6 +1,6 @@
 # Counter
 
-****
+**If you want to see a practical counter project (with JS), check out my code ♥️👀**
 
 https://github.com/Mehrsa-Mohajeri-Developer/Counter/assets/145048780/5ae14b3a-7c09-4322-add4-83e339a02b91
 
